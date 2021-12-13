@@ -1,0 +1,7 @@
+1.Python imutils package-For Basic image processing like resize etc.
+2.Python OpenCV package- Loading videos and processing of frames.
+3.Any Python IDE, like Spyder / Pycharm/ Jupiter-For programming in python
+4.Keras
+5.Tensorflow
+6.dlib
+7.Flask- For building web application
